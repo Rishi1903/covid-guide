@@ -1,0 +1,126 @@
+*{
+    margin: 0px;
+}
+body{
+    background-color: rgb(152, 218, 223);
+}
+#page1{
+    background-color: rgb(168, 227, 238);
+}
+.lk{
+    padding: 14px 25px;
+    background-color: rgb(44, 226, 141);
+    border: 4px ;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-variant: inherit;
+    font-size: 1.5em;
+    
+}
+.head{
+    padding: 1px 40px;
+    font-family: 'Noto Serif';
+    color: rgb(35, 41, 119);
+    display: block;
+    font-size: 4.0em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+.symp{
+    padding: 14px 10px;
+    background-color: rgb(0, 188, 221);
+    border: 4px ;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-variant: inherit;
+    font-size: 3em;
+    
+}
+/* h1 {
+    display: block;
+    font-size: 4.2em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+} */
+a:link {
+    color: rgb(204, 243, 204);
+    text-decoration: none;
+    font-family: 'Open Sans', sans-serif;
+  }
+  a:visited {
+    color: rgb(248, 228, 231);
+    background-color: transparent;
+    text-decoration: none;
+    font-family: 'Open Sans', sans-serif;
+  }
+.precautions{
+    font-size: 2em;
+    background-color: rgb(112, 241, 140);
+    padding: 15px 25px;
+
+    color: ivory;
+    
+}
+.prec{
+    font-size:30px;
+    color: ivory;
+    font-family: 'Open Sans', sans-serif;
+   }
+#page3{
+    background-color: #ffedbf;
+    height: 760px;
+    background-image: url('https://ergomedplc.com/wp-content/uploads/sites/3/2020/03/iStock-covid19.jpg');
+    background-size: cover;
+}
+#page2{
+   
+    height: 750px;
+}
+ol{
+    font-size:25px;
+    color: rgb(0, 96, 175);
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+   }
+p{
+    font-size: 2em;
+    color: blue;
+    text-align: center;
+}
+.dev{
+    text-align: center;
+    font-size: 4em;
+    background-color: rgb(54, 31, 255);
+    color: cornflowerblue;
+}
+.devp{
+    font-size: 2em;
+    text-align: center;
+    background-color: rgb(33, 56, 56);
+    color: rgb(107, 180, 180);
+
+}
+#notebox{
+    padding: 10px;
+    border: 5px solid deepskyblue;
+}
+h3{
+    font-size: 1.6em;
+    color: darkslategray;
+    padding: 15px;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+}
+h4{
+    font-size: 1.3em;
+    color: rgba(0, 0, 0, 0.301);
+    padding: 5px;
+    font-family: 'Open Sans', sans-serif;
+}
+#page4{
+    height: 2000px;
+}
